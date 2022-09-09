@@ -5,6 +5,8 @@ doodle: "/assets/images/doodle.png"
 permalink: /
 ---
 
+This is the site for the 2021-22 iteration of the capstone. For the most recent course website, look [here](https://dsc-capstone.github.io).
+
 ## Student Pages
 
 |Quarter 1|Quarter 2|
