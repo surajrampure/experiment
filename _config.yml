@@ -3,7 +3,7 @@ title: "UCSD Data Science Capstone"
 source: .
 destination: _site
 url: "https://dsc-capstone.github.io/archive/"
-permalink: /:url/
+# permalink: /:url/
 defaults:
   - scope:
       path: "resources/lecture-notes"
